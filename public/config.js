@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '安小歪的网站状态',
+  SiteName: '高先生的网站状态',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
